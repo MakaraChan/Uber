@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/UberApp.iml" filepath="$PROJECT_DIR$/UberApp.iml" />
+      <module fileurl="file://D:\Makara\Code\UberApp\UberApplication.iml" filepath="D:\Makara\Code\UberApp\UberApplication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://D:\Makara\Code\UberApp\app\app.iml" filepath="D:\Makara\Code\UberApp\app\app.iml" />
+    </modules>
+  </component>
+</project>

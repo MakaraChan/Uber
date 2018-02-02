@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "241052853487",
+    "firebase_url": "https://uber-cd1e5.firebaseio.com",
+    "project_id": "uber-cd1e5",
+    "storage_bucket": "uber-cd1e5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241052853487:android:b9c812c18982c759",
+        "android_client_info": {
+          "package_name": "makara.com.uberapplication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241052853487-df72bif27k8m0jnpgn4g5t2lkmtkh91f.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "makara.com.uberapplication",
+            "certificate_hash": "ef560e50a08bacdd236b5a6ffa0c42f5adf52a13"
+          }
+        },
+        {
+          "client_id": "241052853487-d7b3fon8g6hjf4brfff9cckhu0j14dp6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGbTXXa3B9vGxcKnu-JfEfykgEvhgzwUU"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241052853487-d7b3fon8g6hjf4brfff9cckhu0j14dp6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
